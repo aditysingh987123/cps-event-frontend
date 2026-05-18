@@ -102,11 +102,9 @@ export default function EnquiryForm() {
                 <option>Laptop Rental</option>
                 <option>Desktop Rental</option>
                 <option>Server Rental</option>
-                <option>Workstation Rental</option>
                 <option>Bulk IT Rental</option>
                 <option>Corporate Leasing</option>
                 <option>Event IT Setup</option>
-                <option>Customer Onboarding</option>
                 <option>Other</option>
               </select>
 
