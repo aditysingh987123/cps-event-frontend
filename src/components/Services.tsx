@@ -31,12 +31,7 @@ const services = [
     icon: Server,
     color: "bg-indigo-600",
   },
-  {
-    title: "Workstation Rental",
-    desc: "High-performance systems for technical and creative teams.",
-    icon: Settings,
-    color: "bg-orange-600",
-  },
+
   {
     title: "Bulk IT Rental",
     desc: "Bulk laptops and desktops for training, rollout, and events.",
@@ -55,6 +50,12 @@ const services = [
     icon: CalendarCheck,
     color: "bg-[#ef4b3f]",
   },
+  {
+  title: "Performance Laptop Rental",
+  desc: "Powerful laptops for design, development, editing, and heavy business tasks.",
+  icon: Laptop,
+  color: "bg-orange-600",
+},
   {
     title: "Customer Onboarding",
     desc: "Support for new customers who want to start with our rental solutions.",

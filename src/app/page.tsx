@@ -21,10 +21,9 @@ export default function Home() {
       <StatsSection />
       <TrustedBy />
       <Brands />
-      <RequirementCards />
       <Services />
       <SavingsSection />
-      <WhyChooseUs />
+      {/* <WhyChooseUs /> */}
       <FAQ />
       <EnquiryForm />
       <Footer />
